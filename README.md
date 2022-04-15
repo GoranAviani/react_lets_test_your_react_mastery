@@ -1,3 +1,5 @@
+Coding exercise from Modern React With Reduct Course by Stephen Grider. Exercise Section 11: Lets test your react mastery
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
