@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ea6206c-81a8-439f-b317-8b246ec2c61a" name="Changes" comment="react_lets_test_your_react_mastery">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="3ea6206c-81a8-439f-b317-8b246ec2c61a" name="Changes" comment="react_lets_test_your_react_mastery" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650016541475</updated>
       <workItem from="1650016543126" duration="141000" />
-      <workItem from="1650016705295" duration="1276000" />
+      <workItem from="1650016705295" duration="1495000" />
     </task>
     <task id="LOCAL-00001" summary="react_lets_test_your_react_mastery">
       <created>1650016937378</created>
@@ -200,7 +198,28 @@
       <option name="project" value="LOCAL" />
       <updated>1650017406551</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="react_lets_test_your_react_mastery">
+      <created>1650018038489</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1650018038489</updated>
+    </task>
+    <task id="LOCAL-00024" summary="react_lets_test_your_react_mastery">
+      <created>1650018078784</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1650018078784</updated>
+    </task>
+    <task id="LOCAL-00025" summary="react_lets_test_your_react_mastery">
+      <created>1650018123154</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1650018123154</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
